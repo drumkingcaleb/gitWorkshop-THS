@@ -9,5 +9,8 @@ public class Greeting {
  public void greet() {
    System.out.println(greeting);
  }
+ public void sayHello() {
+   System.out.println("Hello!");
+ }
 
 }
